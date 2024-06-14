@@ -3,14 +3,21 @@
 
 数据库
 
-<img src="C:\Users\lcf54\Pictures\Screenshots\屏幕截图 2024-06-06 164353.png" style="zoom:50%;" />
+![](https://dingdong-restaurant.oss-cn-beijing.aliyuncs.com/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-06-06%20164353.png)
 
 管理端页面
 
-![](C:\Users\lcf54\Pictures\Screenshots\屏幕截图 2024-06-15 001418.png)
+![](https://dingdong-restaurant.oss-cn-beijing.aliyuncs.com/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-06-15%20001418.png)
 
-![屏幕截图 2024-06-15 001428](C:\Users\lcf54\Pictures\Screenshots\屏幕截图 2024-06-15 001428.png)
+工作台
 
-![屏幕截图 2024-06-15 001442](C:\Users\lcf54\Pictures\Screenshots\屏幕截图 2024-06-15 001442.png)
 
-![屏幕截图 2024-06-15 001449](C:\Users\lcf54\Pictures\Screenshots\屏幕截图 2024-06-15 001449.png)
+
+![](https://dingdong-restaurant.oss-cn-beijing.aliyuncs.com/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-06-15%20001428.png)
+
+订单模块
+
+
+
+![](https://dingdong-restaurant.oss-cn-beijing.aliyuncs.com/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-06-15%20001442.png)
+
